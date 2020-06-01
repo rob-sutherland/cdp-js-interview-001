@@ -9,7 +9,7 @@ const randomNumberInRange = function(min, max) {
 const App = () => { 
   return (
     <div>
-      Hello! Write the code to complete this assignment in the index.js file.
+      Hello! Write the code to implement the requirements in index.js.
     </div>
   );
 };
